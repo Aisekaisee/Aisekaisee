@@ -51,9 +51,3 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 
----
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Aisekaisee&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=Aisekaisee&icon=0&color=0" alt="Visit Count" />
-  </a>
-</p>
