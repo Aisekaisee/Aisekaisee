@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul</h1>
-<h3 align="center">Software Developer & Data Analyst</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aisekaisee&label=Profile%20views&color=0e75b6&style=flat" alt="Vipul" />
@@ -17,9 +17,9 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="mailto:vipul@foodhub.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/Vipul Kohli" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
-<a href="https://twitter.com/agrwl_pratyaksh" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="mailto:kohlivipul48@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/vipul-kohli-31bb3921b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" /></a>
+<a href="https://x.com/VIPULKOHLI71371" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
