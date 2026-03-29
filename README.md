@@ -39,11 +39,9 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aisekaisee&theme=dark&show_icons=true&locale=en" alt="Vipul's Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aisekaisee&show_icons=true&theme=dark" alt="Vipul's Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aisekaisee&theme=dark&layout=compact" alt="Top Languages" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Aisekaisee&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aisekaisee&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
